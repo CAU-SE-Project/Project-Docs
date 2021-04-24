@@ -1,5 +1,5 @@
 # Use Cases
-- Use Cases의 Full version은 [여기(Link)](https://www.notion.so/b77ac0d510e24f19b4473dbf6c786e0a?v=7ab95d34d295457bba9eb7007ecbe7ea)서 확인할 수 있습니다. **(Notion Pages)**
+- Use Cases의 Full version은 여기[(Link)](https://www.notion.so/b77ac0d510e24f19b4473dbf6c786e0a?v=7ab95d34d295457bba9eb7007ecbe7ea)서 확인할 수 있습니다. **(Notion Pages)**
 
 | **Actor** | **Actor's Goal** | **Use Case Name** |
 | | | |
