@@ -11,11 +11,11 @@
 | Database | Save doctor's information, conversation history(chatting). | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
 | Database | Have blackList information and update on every request. | UC-3: MatchClinic |
 | Interface | Have some interface elements such as buttons to add someone in blacklist. | UC-3: MatchClinic |
-| system | Filter all disease names associated with symptoms | UC-4: SearchDieases |
-| patient and general user | Choose a disease user want to see more about | UC-4: SearchDieases |
-| system | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
-| citizen | Choosing whether to get medical treatment | UC-5: FindHospital |
-| citizen | Choosing whether to get treatment offline or online | UC-5: FindHospital |
+| System | Filter all disease names associated with symptoms | UC-4: SearchDieases |
+| Patient and general user | Choose a disease user want to see more about | UC-4: SearchDieases |
+| System | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
+| Patient and general user | Choosing whether to get medical treatment | UC-5: FindHospital |
+| Patient and general user | Choosing whether to get treatment offline or online | UC-5: FindHospital |
 | locationSensor | Get user's current location | UC-5: FindHospital |
 | system | Search and show the hospital based on your location and medical department on the map | UC-5: FindHospital |
 | system | Filter from doctor's database based on medical department | UC-6: FindClinic |
