@@ -1,7 +1,7 @@
 # Requirements
 
 - **User stories** Style의 Requirements를 정의하였습니다.
-- Requirements의 Full version은 [여기(Link)](https://www.notion.so/c69a48dfafd245d3bdca42ead0bc0700?v=e982eef2184d4998991c367f019860b6)서 확인할 수 있습니다. (Notion Pages)
+- Requirements의 Full version은 [여기(Link)](https://www.notion.so/c69a48dfafd245d3bdca42ead0bc0700?v=e982eef2184d4998991c367f019860b6)서 확인할 수 있습니다. **(Notion Pages)**
 
 | **Identifier** | **User Story** | **Size** |
 |:--------:|:--------:|:--------:|
