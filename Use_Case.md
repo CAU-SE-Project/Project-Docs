@@ -14,6 +14,6 @@
 | UC-5 | FindClinic | [Link](https://www.notion.so/Use-Case-UC-5-e8b8f8d4acf74f3495e8d751db21afe7) |
 | UC-6 | FindDoctor | [Link](https://www.notion.so/Use-Case-UC-6-2736728fdc024b8dbfdaefb5a84cf303) |
 | UC-7 | AddUser | [Link](https://www.notion.so/Use-Case-UC-7-f7c541dca1e34b079b60b5ebebdad7bc) |
-| UC-8 | CheckList | [Link](https://www.notion.so/Use-Case-UC-8-366ab650995b499f906f8496a8c98921) |
+| UC-8 | ConditionCheck | [Link](https://www.notion.so/Use-Case-UC-8-366ab650995b499f906f8496a8c98921) |
 | UC-9 | LifePattern | [Link](https://www.notion.so/Use-Case-UC-9-564e91bf8d774b31b7af002f9e10a9e9) |
 | UC-10 | Disease Management | [Link](https://www.notion.so/Use-Case-UC-10-1155141a58e24cbdb2a00bab93926d18) |
