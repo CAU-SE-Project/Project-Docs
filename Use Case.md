@@ -2,24 +2,39 @@
 - Use Cases의 Full version은 여기[(Link)](https://www.notion.so/b77ac0d510e24f19b4473dbf6c786e0a?v=7ab95d34d295457bba9eb7007ecbe7ea)서 확인할 수 있습니다. **(Notion Pages)**
 
 ## Deriving Use Cases from System Requirements
-| **Actor** | **Actor's Goal** | **Use Case Name** |
-|:--------|:--------|:--------|
-| Patient | Write a chat to send to doctor. And also select doctors/conversation which want to show. | UC-1: Clinic<br>UC-2: ManageClinic |
-| Doctor | Write a chat to send to patient. And also select patients/conversation which want to show. | UC-1: Clinic<br>UC-2: ManageClinic |
-| Server | Connect patient and doctor in on-line. | UC-1: Clinic |
-| Interface | Show the chatting room in Real-Time on the participant's screen. And also some buttons. | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
-| Database | Save doctor's information, conversation history(chatting). | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
-| Database | Have blackList information and update on every request. | UC-3: MatchClinic |
-| Interface | Have some interface elements such as buttons to add someone in blacklist. | UC-3: MatchClinic |
-| System | Filter all disease names associated with symptoms | UC-4: SearchDieases |
-| Patient and general user | Choose a disease user want to see more about | UC-4: SearchDieases |
-| System | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
-| Patient and general user | Choosing whether to get medical treatment | UC-5: FindHospital |
-| Patient and general user | Choosing whether to get treatment offline or online | UC-5: FindHospital |
-| LocationSensor | Get user's current location | UC-5: FindHospital |
-| System | Search and show the hospital based on your location and medical department on the map | UC-5: FindHospital |
-| System | Filter from doctor's database based on medical department | UC-6: FindClinic |
-| System | Show profile based on filtered data of doctor's list| UC-6: FindClinic |
+| **Actor**                       | **Actor's Goal**                                                                                     | **Use Case Name**                                       |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
+| Patient                         | Write a chat to send to doctor. And also select doctors/conversation which want to show.             | UC-1: Clinic<br>UC-2: ManageClinic                      |
+| Doctor                          | Write a chat to send to patient. And also select patients/conversation which want to show.           | UC-1: Clinic<br>UC-2: ManageClinic                      |
+| Server                          | Connect patient and doctor in on-line.                                                               | UC-1: Clinic                                            |
+| Interface                       | Show the chatting room in Real-Time on the participant's screen. And also some buttons.              | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
+| Database                        | Save doctor's information, conversation history(chatting).                                           | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
+| Database                        | Have blackList information and update on every request.                                              | UC-3: MatchClinic                                       |
+| Interface                       | Have some interface elements such as buttons to add someone in blacklist.                            | UC-3: MatchClinic                                       |
+| System                          | Filter all disease names associated with symptoms                                                    | UC-4: SearchDieases                                     |
+| Patient and general user        | Choose a disease user want to see more about                                                         | UC-4: SearchDieases                                     |
+| System                          | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases                                     |
+| Patient and general user        | Choosing whether to get medical treatment                                                            | UC-5: FindHospital                                      |
+| Patient and general user        | Choosing whether to get treatment offline or online                                                  | UC-5: FindHospital                                      |
+| LocationSensor                  | Get user's current location                                                                          | UC-5: FindHospital                                      |
+| System                          | Search and show the hospital based on your location and medical department on the map                | UC-5: FindHospital                                      |
+| System                          | Filter from doctor's database based on medical department                                            | UC-6: FindClinic                                        |
+| System                          | Show profile based on filtered data of doctor's list                                                 | UC-6: FindClinic                                        |
+| Citizen                         | Sign Up and select type of User                                                                      | UC-7: AddUser                                           |
+| System                          | Provide pages by user type                                                                           | UC-7: AddUser                                           |
+| Patient                         | Enter user's own disease information                                                                 | UC-7: AddUser                                           |
+| Doctor                          | Enter doctor's license and information about hospital                                                | UC-7: AddUser                                           |
+| System                          | Check for duplicate ID and doctor license                                                            | UC-7: AddUser                                           |
+| System                          | Provide Symptom list                                                                                 | UC-8: ConditionCheck                                    |
+| Citizen                         | look up his own physical condition data                                                              | UC-8: ConditionCheck                                    |
+| System                          | recommend Serach Disease in the case of suspicion of disease                                         | UC-8: ConditionCheck                                    |
+| Citizen                         | request Search Disease                                                                               | UC-8: ConditionCheck                                    |
+| Citizen                         | Choose one among Sleeping Pattern / Diet / Exercise record                                           | UC-9: LifePattern                                       |
+| Citizen                         | Enter information about Sleeping Pattern / Diet / Exercise Record                                    | UC-9: LifePattern                                       |
+| System                          | Provide User's Life Pattern Grade and improvement                                                    | UC-9: LifePattern                                       |
+| Patient                         | Record Symptom / Record Action /                                                                     |
+| Enter notification registration | UC-10: Disease Management                                                                            |
+| System                          | Send a notification at the speicified time                                                           | UC-9: Disease Management                                |
 
 ## Detailed Use Cases
 - Link에서 세부 명세서를 확인할 수 있습니다. **(Notion)**
