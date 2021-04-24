@@ -16,10 +16,10 @@
 | System | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
 | Patient and general user | Choosing whether to get medical treatment | UC-5: FindHospital |
 | Patient and general user | Choosing whether to get treatment offline or online | UC-5: FindHospital |
-| locationSensor | Get user's current location | UC-5: FindHospital |
-| system | Search and show the hospital based on your location and medical department on the map | UC-5: FindHospital |
-| system | Filter from doctor's database based on medical department | UC-6: FindClinic |
-| system | Show profile based on filtered data of doctor's list| UC-6: FindClinic |
+| LocationSensor | Get user's current location | UC-5: FindHospital |
+| System | Search and show the hospital based on your location and medical department on the map | UC-5: FindHospital |
+| System | Filter from doctor's database based on medical department | UC-6: FindClinic |
+| System | Show profile based on filtered data of doctor's list| UC-6: FindClinic |
 
 ## Detailed Use Cases
 - Link에서 세부 명세서를 확인할 수 있습니다. **(Notion)**
