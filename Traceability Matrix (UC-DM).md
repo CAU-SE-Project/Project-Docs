@@ -51,7 +51,7 @@
 | DiseaseFinder | | | | X | | | | | | |
 | Viewer | | | | X | X | X | | | | |
 | DiseaseSelection | | | | X | | X | | | | |
-| BackButton | | | | X | X | X | | | | |
+| BackButton | X | X | X | X | X | X | X | X | X | X |
 | Controller-SS12 | | | | | X | | | | | |
 | Controller-SS13 | | | | | | X | | | | |
 | ButtonPopup | | | | | X | X | | | | |
