@@ -15,12 +15,12 @@
 |REQ-8|As  patient and doctor, can refuse to talk to a specific patient or doctor in order to provide customized services.|3 pts|
 |REQ-9|As patient and doctor, can check past chatting history.|3 pts|
 |REQ-10|As patient, be able to check the doctor's profile to talk to the doctor of your choice.|3 pts|
-|REQ-11|As a general/patient user, can choose between general user and patient user when signing up.|pts|
-|REQ-12|As a general/patient user, be able to reposition themselves depending on the situation (general user ↔ patient user)|pts|
-|REQ-13|As a general/paitent user,  for daily life management, can record my own life patterns(sleeping patterns, diet, exercise record)|pts|
-|REQ-14|As a general/patient user, can check my past life patterns|pts|
-|REQ-15|As a system, for users to record their own diet, provide food-specific classifications.|pts|
-|REQ-16|As a general/patient user, can record my physical condition through the checklist.|pts|
+|REQ-11|As a general/patient user, can choose between general user and patient user when signing up.|10 pts|
+|REQ-12|As a general/patient user, be able to reposition themselves depending on the situation (general user ↔ patient user)|1 pt|
+|REQ-13|As a general/paitent user,  for daily life management, can record my own life patterns(sleeping patterns, diet, exercise record)|5 pts|
+|REQ-14|As a general/patient user, can check my past life patterns|4 pts|
+|REQ-15|As a system, for users to record their own diet, provide food-specific classifications.|2 pts|
+|REQ-16|As a general/patient user, can record my physical condition through the checklist.|5 pts|
 |REQ-17|As a general/patient user, the names of all possible diseases associated with my symptoms can be found on the Disease Search page.|6 pts|
 |REQ-18|As a general/patient user, click on the name of the disease to view the definition, cause, symptoms, diagnosis, treatment, progress, precautions, and medical information of the disease.|8 pts|
 |REQ-19|The system can retrieve all disease information from the database and filter only the diseases associated with the symptoms.|16 pts|
@@ -32,8 +32,12 @@
 |REQ-25|As a general/patient user, view the recommended doctors' profiles and apply for medical chat.|4 pts|
 |REQ-26|The system retrieves information from the subscribed doctors from the database, filters it for the department, and sorts it randomly.|8 pts|
 |REQ-27|As a general/patient user, can go straight to the previous page when you click the Back button.|1 pt|
-|REQ-28|As a general/patient user, can be recommended symptom analysis through my own checklist.|pts|
-|REQ-29|As a patient user, can register my own disease.|pts|
-|REQ-30|As a paitent user, can record symptoms related to my own disease.|pts|
-|REQ-31|As a patient user, can record actions to manage disease.|pts|
-|REQ-32|As a patient user, can receive special services for the disease (ex. notification of medication administration time, diet recommendations).|pts|
+|REQ-28|As a general/patient user, can be recommended symptom analysis through my own checklist.|3 pts|
+|REQ-29|As a patient user, can register my own disease.|8 pts|
+|REQ-30|As a paitent user, can record symptoms related to my own disease.|4 pts|
+|REQ-31|As a patient user, can record actions to manage disease.|4 pts|
+|REQ-32|As a patient user, can receive special services for the disease (ex. notification of medication administration time, diet recommendations).|3 pts|
+|NFR-1|Server and database must be designed to be safe from external attacks.|6 pts|
+|NFR-2|Server and database must be fast enough.|5 pts|
+|NFR-3|Duplication of DB should be minimized to manage DB efficiently.|5 pts|
+|NFR-4|Do not take too long to move to next stage.|5 pts|
