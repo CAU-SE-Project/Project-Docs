@@ -42,3 +42,4 @@
 |NFR-2|Server and database must be fast enough.|5 pts| NFR |
 |NFR-3|Duplication of DB should be minimized to manage DB efficiently.|5 pts| NFR |
 |NFR-4|Do not take too long to move to next stage.|5 pts| NFR |
+|NFR-5|User's personal information should not be leaked.|8 pts| NFR |
