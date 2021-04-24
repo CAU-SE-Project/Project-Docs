@@ -38,7 +38,7 @@
 |REQ-30|As a paitent user, can record symptoms related to my own disease.|4 pts| FR |
 |REQ-31|As a patient user, can record actions to manage disease.|4 pts| FR |
 |REQ-32|As a patient user, can receive special services for the disease (ex. notification of medication administration time, diet recommendations).|3 pts| FR |
-|NFR-1|Server and database must be designed to be safe from external attacks.|6 pts| FR |
-|NFR-2|Server and database must be fast enough.|5 pts| FR |
-|NFR-3|Duplication of DB should be minimized to manage DB efficiently.|5 pts| FR |
-|NFR-4|Do not take too long to move to next stage.|5 pts| FR |
+|NFR-1|Server and database must be designed to be safe from external attacks.|6 pts| NFR |
+|NFR-2|Server and database must be fast enough.|5 pts| NFR |
+|NFR-3|Duplication of DB should be minimized to manage DB efficiently.|5 pts| NFR |
+|NFR-4|Do not take too long to move to next stage.|5 pts| NFR |
