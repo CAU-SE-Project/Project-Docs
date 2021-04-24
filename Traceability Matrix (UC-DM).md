@@ -45,4 +45,21 @@
 | Controller-SS10 | | | | | | | | | | X |
 | CheckResponse | | | | | | | | | | X |
 | Alarm | | | | | | | | | | X |
-
+| Controller-SS11 | | | | X | X | X | | | | |
+| DiseaseStorage | | | | X | | | | | | |
+| SymptomsList | | | | X | | | | | | |
+| DiseaseFinder | | | | X | | | | | | |
+| Viewer | | | | X | X | X | | | | |
+| DiseaseSelection | | | | X | | X | | | | |
+| BackButton | | | | X | X | X | | | | |
+| ButtonPopup | | | | | X | X | | | | |
+| UserSelection | | | | | X | X | | | | |
+| LocationNotify | | | | | X | | | | | |
+| UserAgreement | | | | | X | | | | | |
+| GetLocation | | | | | X | | | | | |
+| UserLocation | | | | | X | | | | | |
+| FindNearHospital | | | | | X | | | | | |
+| MouseEntry | | | | | X | | | | | |
+| MapViewer | | | | | X | | | | | |
+| DoctorFinder | | | | | | X | | | | |
+| SelectedDoctor | | | | | | X | | | | |
