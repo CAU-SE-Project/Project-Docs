@@ -11,15 +11,16 @@
 | Database | Save doctor's information, conversation history(chatting). | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
 | Database | Have blackList information and update on every request. | UC-3: MatchClinic |
 | Interface | Have some interface elements such as buttons to add someone in blacklist. | UC-3: MatchClinic |
-| citizen | 자신의 증상을 입력 | |
-| system | 증상과 관련된 모든 병명을 필터링해서 보여주기 | UC-4: SearchDieases |
-| citizen | 자세히 보고 싶은 질병 선택하기 | UC-4: SearchDieases |
-| system | 선택된 질병의 정의, 원인, 증상, 진단, 치료, 경과, 주의사항, 진료과 정보 보여주기 | UC-4: SearchDieases |
-| citizen | 진료를 받을지 여부 선택하기 | UC-5: FindHospital |
-| citizen | 진료를 대면으로 받을지 비대면으로 받을지 선택하기 | UC-5: FindHospital |
-| locationSensor | 사용자의 현재 위치가 어디인지 알아내기 | UC-5: FindHospital |
-| system | 지도에서 사용자의 위치와 진료과 정보를 바탕으로 병원 검색 후 보여주기 | UC-5: FindHospital |
-| system | 의사 데이터베이스에서 진료과 정보를 바탕으로 필터링 | UC-6: FindClinic |
+
+| system | Filter all disease names associated with symptoms | UC-4: SearchDieases |
+| patient and general user | Choose a disease user want to see more about | UC-4: SearchDieases |
+| system | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
+| citizen | Choosing whether to get medical treatment | UC-5: FindHospital |
+| citizen | Choosing whether to get treatment offline or online | UC-5: FindHospital |
+| locationSensor | Get user's current location | UC-5: FindHospital |
+| system | Search and show the hospital based on your location and medical department on the map | UC-5: FindHospital |
+| system | Filter from doctor's database based on medical department | UC-6: FindClinic |
+| system | Show profile based on filtered data of doctor's list| UC-6: FindClinic |
 
 ## Detailed Use Cases
 - Link에서 세부 명세서를 확인할 수 있습니다. **(Notion)**
