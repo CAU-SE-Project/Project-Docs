@@ -20,3 +20,14 @@
 | 5 | **Domain Model (E-C-B)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Domain%20Model.md) | [Link](https://www.notion.so/8469133bdc7540c7bc502ea4bdc38636?v=043b0aaf87ba42a39f97ab8c953f449b) |
 | 6 | **Traceability Matrix (UC-DC)** |[Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Traceability%20Matrix%20(UC-DM).md) | - |
 | 7 | **User Interface mockups** | [Link(DIR)](/mokups) | |
+
+### 📝 Meeting Notes
+| **No** | **Date** | **Topic** | **Link (Notion)** |
+|:-------|:-------|:-------|:-------|
+| 1 | 2021.03.25.THU 13:30 | Team OT, 주제 정하기 | [Link]() |
+| 2 | 2021.03.28.SAT 19:30 | Problem Statement 작성 회의 | [Link]() |
+| 3 | 2021.04.01.THU 22:00 | Requirements 작성 회의 | [Link]() |
+| 4 | 2021.04.08.THU 11:00 | Use Case, Traceability Matrix(REQ-UC) 작성 회의 및 일정 체크 | [Link]() |
+| 5 | 2021.04.23.FRI 23:00 | Remind 및 Domain Model, User Interface Mockups 작성 회의 | [Link]() |
+| 6 | 2021.04.24.SAT 21:00 | Traceability Matrix(UC-DC) 작성 회의 및 과제 진행 현황 체크 | [Link]() |
+| 7 | 2021.04.25.SUN 18:00 | | Link |
