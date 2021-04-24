@@ -11,7 +11,6 @@
 | Database | Save doctor's information, conversation history(chatting). | UC-1: Clinic<br>UC-2: ManageClinic<br>UC-3: MatchClinic |
 | Database | Have blackList information and update on every request. | UC-3: MatchClinic |
 | Interface | Have some interface elements such as buttons to add someone in blacklist. | UC-3: MatchClinic |
-
 | system | Filter all disease names associated with symptoms | UC-4: SearchDieases |
 | patient and general user | Choose a disease user want to see more about | UC-4: SearchDieases |
 | system | Show definitions, causes, symptoms, diagnosis, treatment, progress, precautions, medical information | UC-4: SearchDieases |
