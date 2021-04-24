@@ -33,7 +33,7 @@
 | Citizen                  | Enter information about Sleeping Pattern / Diet / Exercise Record                                    | UC-9: LifePattern                                       |
 | System                   | Provide User's Life Pattern Grade and improvement                                                    | UC-9: LifePattern                                       |
 | Patient                  | Record Symptom / Record Action / Enter notification registration                                     | UC-10: Disease Management                               |
-| System                   | Send a notification at the speicified time                                                           | UC-9: Disease Management                                |
+| System                   | Send a notification at the speicified time                                                           | UC-10: Disease Management                                |
 
 ## Detailed Use Cases
 - Link에서 세부 명세서를 확인할 수 있습니다. **(Notion)**
