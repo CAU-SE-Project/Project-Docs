@@ -4,7 +4,7 @@
 - Requirements의 Full version은 [여기(Link)](https://www.notion.so/c69a48dfafd245d3bdca42ead0bc0700?v=e982eef2184d4998991c367f019860b6)서 확인할 수 있습니다. **(Notion Pages)**
 
 | **Identifier** | **User Story** | **Size** |
-|:--------:|:--------:|:--------:|
+|:--------|:--------|:--------|
 |REQ-1|As patient and doctor, In order to protect the patient's privacy, the chatting should be visible only to the participants in the chatting.|10 pts|
 |REQ-2|As patient and doctor, chatting must being in real time to provide real-world care experience.|10 pts|
 |REQ-3|As patient, In order to receive treatment from a real doctor, the doctor must be a registered user in the system.|8 pts|
