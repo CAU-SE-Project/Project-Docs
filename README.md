@@ -19,7 +19,7 @@
 | 4 | **Traceability Matrix (REQ-UC)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Traceability%20Matrix%20(REQ-UC).md) | - |
 | 5 | **Domain Model (E-C-B)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Domain%20Model.md) | [Link](https://www.notion.so/8469133bdc7540c7bc502ea4bdc38636?v=043b0aaf87ba42a39f97ab8c953f449b) |
 | 6 | **Traceability Matrix (UC-DC)** |[Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Traceability%20Matrix%20(UC-DM).md) | - |
-| 7 | **User Interface mockups** | [Link(DIR)](/mokups) | - |
+| 7 | **User Interface mockups** | [Link(DIR)](/mockups) | - |
 
 ### 📝 Meeting Notes
 | **No** | **Date** | **Topic** | **Link (Notion)** |
