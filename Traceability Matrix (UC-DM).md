@@ -46,14 +46,14 @@
 | CheckResponse | | | | | | | | | | X |
 | Alarm | | | | | | | | | | X |
 | Controller-SS11 | | | | X | | | | | | |
-| Controller-SS12 | | | | | X | | | | | |
-| Controller-SS13 | | | | | | X | | | | |
 | DiseaseStorage | | | | X | | | | | | |
 | SymptomsList | | | | X | | | | | | |
 | DiseaseFinder | | | | X | | | | | | |
 | Viewer | | | | X | X | X | | | | |
 | DiseaseSelection | | | | X | | X | | | | |
 | BackButton | | | | X | X | X | | | | |
+| Controller-SS12 | | | | | X | | | | | |
+| Controller-SS13 | | | | | | X | | | | |
 | ButtonPopup | | | | | X | X | | | | |
 | UserSelection | | | | | X | X | | | | |
 | LocationNotify | | | | | X | | | | | |
