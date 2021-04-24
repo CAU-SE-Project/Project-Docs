@@ -23,6 +23,7 @@
 
 ## Detailed Use Cases
 - Link에서 세부 명세서를 확인할 수 있습니다. **(Notion)**
+
 | **Identifier** | **Use Case Name** | **Detail (Notion)** |
 |:--------:|:--------:|:--------:|
 | UC-1 | Clinic | [Link](https://www.notion.so/Use-Case-UC-1-901ddf7bf72f42e3aa2fa094bcda7cc5) |
