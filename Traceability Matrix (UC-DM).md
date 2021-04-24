@@ -45,7 +45,9 @@
 | Controller-SS10 | | | | | | | | | | X |
 | CheckResponse | | | | | | | | | | X |
 | Alarm | | | | | | | | | | X |
-| Controller-SS11 | | | | X | X | X | | | | |
+| Controller-SS11 | | | | X | | | | | | |
+| Controller-SS12 | | | | | X | | | | | |
+| Controller-SS13 | | | | | | X | | | | |
 | DiseaseStorage | | | | X | | | | | | |
 | SymptomsList | | | | X | | | | | | |
 | DiseaseFinder | | | | X | | | | | | |
