@@ -1,5 +1,5 @@
 # Traceability Matrix
-- System requirements를 Use Cases에 Mapping한 Traceaility Matrix입니다.
+- System requirements를 Use Cases에 Mapping한 Traceability Matrix입니다.
 
 | **REQ** | **PW** | **UC1** | **UC2** | **UC3** | **UC4** | **UC5** | **UC6** | **UC7** | **UC8** | **UC9** | **UC10** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
