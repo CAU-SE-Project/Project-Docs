@@ -8,10 +8,10 @@
 | Controller-SS1 | X | | | | | | | | | |
 | Request | X | | | | | | | | | |
 | ConnectOperator | X | | | | | | | | | |
-| DatabaseConnection | X | | | | | | | | | |
-| Chat | X | | | | | | | | | |
+| DatabaseConnection | X | X | X | | | | | | | |
+| Chat | X | X | X | | | | | | | |
 | SendOperator | X | | | | | | | | | |
-| DisplayOperator | X | | | | | | | | | |
+| DisplayOperator | X | X | | | | | | | | |
 | AlarmOperator | X | | | | | | | | | |
 | Logger | X | | X | | | | | | | |
 | Controller-SS2 | | X | | | | | | | | |
@@ -19,7 +19,7 @@
 | ConversationList | | X | | | | | | | | |
 | SelectConversation | | X | | | | | | | | |
 | Controller-SS3 | | | X | | | | | | | |
-| Doctor | X | X | X | | | | | | | |
+| Doctor | X | X | X | | | X | | | | |
 | CheckDoctor | | | X | | | | | | | |
 | SelectDoctor | | | X | | | | | | | |
 | Blacklist | | | X | | | | | | | |
