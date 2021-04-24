@@ -8,7 +8,7 @@
 | Controller-SS1 | X | | | | | | | | | |
 | Request | X | | | | | | | | | |
 | ConnectOperator | X | | | | | | | | | |
-| DatabaseConnection | X | X | X | | | | | | | |
+| DatabaseConnection | X | X | X | | | | X | X | X | X |
 | Chat | X | X | X | | | | | | | |
 | SendOperator | X | | | | | | | | | |
 | DisplayOperator | X | X | | | | | | | | |
@@ -25,3 +25,20 @@
 | Blacklist | | | X | | | | | | | |
 | BlacklistOperator | | | X | | | | | | | |
 | CheckSignUp | | | | | | | X | | | |
+| PageMaker | | | | | | | X | X | X | X |
+| MakeInform | | | | | | | X | X | | X |
+| CheckIDRedundancy | | | | | | | X | | | |
+| CheckDoctor | | | | | | | X | | | |
+| InterfaceSymptomlist| | | | | | | | X | | |
+| CheckPhysical | | | | | | | | X | | |
+| DiseaseOperator | | | | | | | | X | | |
+| CheckResponse | | | | | | | | X | | |
+| CheckLifePattern | | | | | | | | | X | |
+| DataCollectOperator | | | | | | | | | X | |
+| CheckAttribute | | | | | | | | | X | |
+| CompareWithStandard | | | | | | | | | X | |
+| GradeOperator | | | | | | | | | X | |
+| ImprovementOperator | | | | | | | | | X | |
+| CheckResponse | | | | | | | | | | X |
+| Alarm | | | | | | | | | | X |
+
