@@ -24,3 +24,4 @@
 | SelectDoctor | | | X | | | | | | | |
 | Blacklist | | | X | | | | | | | |
 | BlacklistOperator | | | X | | | | | | | |
+| CheckSignUp | | | | | | | X | | | |
