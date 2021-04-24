@@ -1,5 +1,7 @@
 # **USE CASE**
 
+Use Case를 정의하였습니다.
+
 
 | **Use Case number** | **Use Case Name** | **Link** |
 |:--------:|:--------:|:--------:|
