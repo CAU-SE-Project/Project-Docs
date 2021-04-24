@@ -24,21 +24,25 @@
 | SelectDoctor | | | X | | | | | | | |
 | Blacklist | | | X | | | | | | | |
 | BlacklistOperator | | | X | | | | | | | |
+| Controller-SS7 | | | | | | | X | | | |
 | CheckSignUp | | | | | | | X | | | |
 | PageMaker | | | | | | | X | X | X | X |
 | MakeInform | | | | | | | X | X | | X |
 | CheckIDRedundancy | | | | | | | X | | | |
 | CheckDoctor | | | | | | | X | | | |
+| Controller-SS8 | | | | | | | | X | | |
 | InterfaceSymptomlist| | | | | | | | X | | |
 | CheckPhysical | | | | | | | | X | | |
 | DiseaseOperator | | | | | | | | X | | |
 | CheckResponse | | | | | | | | X | | |
+| Controller-SS8 | | | | | | | | | X | |
 | CheckLifePattern | | | | | | | | | X | |
 | DataCollectOperator | | | | | | | | | X | |
 | CheckAttribute | | | | | | | | | X | |
 | CompareWithStandard | | | | | | | | | X | |
 | GradeOperator | | | | | | | | | X | |
 | ImprovementOperator | | | | | | | | | X | |
+| Controller-SS10 | | | | | | | | | | X |
 | CheckResponse | | | | | | | | | | X |
 | Alarm | | | | | | | | | | X |
 
