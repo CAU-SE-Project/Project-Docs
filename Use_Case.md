@@ -5,7 +5,7 @@
 | | | |
 
 
-| **Identifier** | **Use Case Name** | **Detail** |
+| **Identifier** | **Use Case Name** | **Detail (Notion)** |
 |:--------:|:--------:|:--------:|
 | UC-1 | Clinic | [Link](https://www.notion.so/Use-Case-UC-1-901ddf7bf72f42e3aa2fa094bcda7cc5) |
 | UC-2 | ManageClinic | [Link](https://www.notion.so/Use-Case-UC-2-a2452e49b2a34dd796fcd8ae861e914e) |
