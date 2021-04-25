@@ -13,7 +13,7 @@
 ### ✔ 1st Checkpoint Assignments
 | **No** | **Contents** | **Link (Markdown)** | **Link (Notion)** |
 |:--------:|:--------:|:--------:|:--------:|
-| 1 | **Problem Statement** | [Link(PDF)](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Problem%20Statement.pdf) | - |
+| 1 | **Problem Statement** | [Link](https://github.com/CAU-SE-Project/Project-Docs/tree/main/1.%20Problem%20Statement) / [PDF](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Problem%20Statement.pdf) | - |
 | 2 | **Gathered Requirements** | [Link](https://github.com/CAU-SE-Project/Project-Docs/tree/main/2.%20Gathered%20Requirements) | [Link](https://www.notion.so/c69a48dfafd245d3bdca42ead0bc0700?v=e982eef2184d4998991c367f019860b6) |
 | 3 | **Use Case Model** | [Link](https://github.com/CAU-SE-Project/Project-Docs/tree/main/3.%20System%20Model/UseCaseModel) | [Link](https://www.notion.so/b77ac0d510e24f19b4473dbf6c786e0a?v=7ab95d34d295457bba9eb7007ecbe7ea) |
 | 4 | **Traceability Matrix (REQ-UC)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/3.%20System%20Model/UseCaseModel/Traceability%20Matrix%20(REQ-UC).md) | - |
