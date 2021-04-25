@@ -30,4 +30,4 @@
 | 4 | 2021.04.08.THU 11:00 | Use Case, Traceability Matrix(REQ-UC) 작성 회의 및 일정 체크 | [Link](https://www.notion.so/1st-Checkpoint-4-Team-Meeting-20210408-THU-2c145c23f4694e5e9e9c26e3eb1663c9) |
 | 5 | 2021.04.23.FRI 23:00 | Remind 및 Domain Model, User Interface Mockups 작성 회의 | [Link](https://www.notion.so/1st-Checkpoint-5-Team-Meeting-20210423-FRI-0fcf9774fa234867b21588951138385c) |
 | 6 | 2021.04.24.SAT 21:00 | Traceability Matrix(UC-DC) 작성 회의 및 과제 진행 현황 체크 | [Link](https://www.notion.so/1st-Checkpoint-6-Team-Meeting-20210424-SAT-0e9aa7dc15da4dffb952cddeb6e131a0) |
-| 7 | 2021.04.25.SUN 18:00 | 1st Checkpoint Assignments 최종 제출 회의 | Link |
+| 7 | 2021.04.25.SUN 18:00 | 1st Checkpoint Assignments 최종 제출 회의 | [Link](https://www.notion.so/1st-Checkpoint-7-Team-Meeting-20210425-SUN-f0c21ccb504d48038d20d195b7f9cdab) |
