@@ -11,6 +11,10 @@
 - **최은서** [소프트웨어학부 3학년, es3442_at_cau.ac.kr] 
 
 ### ✔ 1st Checkpoint Assignments
+Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으로도 확인할 수 있습니다 :)
+- **[Report] Problem Statement**: [PDF](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Problem%20Statement.pdf) (Deadline: 3.28 Sun)
+- **[Report] 1st Checkpoint**: [PDF](https://github.com/CAU-SE-Project/Project-Docs/blob/main/1st%20Checkpoint.pdf) or [DOCX](https://github.com/CAU-SE-Project/Project-Docs/blob/main/1st%20Checkpoint.docx) (Deadline: 4.25 Sun)
+
 | **No** | **Contents** | **Link (Markdown)** | **Link (Notion)** |
 |:--------:|:--------:|:--------:|:--------:|
 | 1 | **Problem Statement** | [Link](https://github.com/CAU-SE-Project/Project-Docs/tree/main/1.%20Problem%20Statement) / [PDF](https://github.com/CAU-SE-Project/Project-Docs/blob/main/Problem%20Statement.pdf) | - |
