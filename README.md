@@ -23,7 +23,18 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 | 4 | **Traceability Matrix (REQ-UC)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/3.%20System%20Model/UseCaseModel/Traceability%20Matrix%20(REQ-UC).md) | - |
 | 5 | **Domain Model (E-C-B)** | [Link](https://github.com/CAU-SE-Project/Project-Docs/tree/main/3.%20System%20Model/Domain%20Model) | [Link](https://www.notion.so/8469133bdc7540c7bc502ea4bdc38636?v=043b0aaf87ba42a39f97ab8c953f449b) |
 | 6 | **Traceability Matrix (UC-DC)** |[Link](https://github.com/CAU-SE-Project/Project-Docs/blob/main/3.%20System%20Model/Domain%20Model/Traceability%20Matrix%20(UC-DM).md) | - |
-| 7 | **User Interface mockups** | [Link(DIR)](https://github.com/CAU-SE-Project/Project-Docs/tree/main/3.%20System%20Model/User%20Interface%20mockups) | - |
+| 7 | **User Interface mockups** | [Link(DIR)](/3.%20System%20Model/User%20Interface%20mockups) | - |
+
+
+### ✔ 2nd Checkpoint Assignments
+Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으로도 확인할 수 있습니다 :)
+- **[Report] 2nd Checkpoint**: [PDF]() (Deadline: 5.15 Sat)
+
+| **No** | **Contents** | **Link (Markdown)** | **Link (Notion)** |
+|:--------:|:--------:|:--------:|:--------:|
+| 1 | **Object Sequence Diagram** | [Link(DIR)](/4.%20Object%20Sequence%20Diagram) | - |
+| 2 | **Class Diagram** | [Link(DIR)](/5.%20Class%20Diagram) | - |
+
 
 ### 📝 Meeting Notes
 | **No** | **Date** | **Topic** | **Link (Notion)** |
@@ -35,3 +46,4 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 | 5 | 2021.04.23.FRI 23:00 | Remind 및 Domain Model, User Interface Mockups 작성 회의 | [Link](https://www.notion.so/1st-Checkpoint-5-Team-Meeting-20210423-FRI-0fcf9774fa234867b21588951138385c) |
 | 6 | 2021.04.24.SAT 21:00 | Traceability Matrix(UC-DC) 작성 회의 및 과제 진행 현황 체크 | [Link](https://www.notion.so/1st-Checkpoint-6-Team-Meeting-20210424-SAT-0e9aa7dc15da4dffb952cddeb6e131a0) |
 | 7 | 2021.04.25.SUN 18:00 | 1st Checkpoint Assignments 최종 제출 회의 | [Link](https://www.notion.so/1st-Checkpoint-7-Team-Meeting-20210425-SUN-f0c21ccb504d48038d20d195b7f9cdab) |
+| 8 | 2021.05.03.Mon 21:00 | 2nd Checkpoint 방향 설정 및 Sequence Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-8-Team-Meeting-20210501-FRI-b5394a88bfa4414e8852decfa713891f) |
