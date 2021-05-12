@@ -30,10 +30,10 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으로도 확인할 수 있습니다 :)
 - **[Report] 2nd Checkpoint**: [PDF]() (Deadline: 5.15 Sat)
 
-| **No** | **Contents** | **Link (Markdown)** | **Link (Notion)** |
-|:--------:|:--------:|:--------:|:--------:|
-| 1 | **Object Sequence Diagram** | [Link(DIR)](/4.%20Object%20Sequence%20Diagram) | - |
-| 2 | **Class Diagram** | [Link(DIR)](/5.%20Class%20Diagram) | - |
+| **No** | **Contents** | **Link (Markdown)** |
+|:--------:|:--------:|:--------:|
+| 1 | **Object Sequence Diagram** | [Link(DIR)](/4.%20Object%20Sequence%20Diagram) |
+| 2 | **Class Diagram** | [Link(DIR)](/5.%20Class%20Diagram) |
 
 
 ### 📝 Meeting Notes
