@@ -9,7 +9,7 @@
 ### - Object Sequence Diagram for UC-4 : Search Disease  
 - Notion : [Link](https://www.notion.so/Sequence-Diagram-for-UC-4-9d4e065dabd34de098335d90682d72a2)  
 
-![image2](UC4_Object_Sequence_Diagram.png)
+![image2](UC4_Object_Sequence_Diagram..png)
 
 
 ### - Object Sequence Diagram for UC-10 : Disease Management  
