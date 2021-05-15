@@ -47,3 +47,5 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 | 6 | 2021.04.24.SAT 21:00 | Traceability Matrix(UC-DC) 작성 회의 및 과제 진행 현황 체크 | [Link](https://www.notion.so/1st-Checkpoint-6-Team-Meeting-20210424-SAT-0e9aa7dc15da4dffb952cddeb6e131a0) |
 | 7 | 2021.04.25.SUN 18:00 | 1st Checkpoint Assignments 최종 제출 회의 | [Link](https://www.notion.so/1st-Checkpoint-7-Team-Meeting-20210425-SUN-f0c21ccb504d48038d20d195b7f9cdab) |
 | 8 | 2021.05.03.Mon 21:00 | 2nd Checkpoint 방향 설정 및 Sequence Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-8-Team-Meeting-20210501-FRI-b5394a88bfa4414e8852decfa713891f) |
+| 9 | 2021.05.08.Sat 21:00 | OSD 피드백 및 Class Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-9-Team-Meeting-20210508-SAT-444e4b27d03d4c9baff2e49bdc40ec12) |
+| 10 | 2021.05.13.Thu 21:00 | Class Diagram 피드백 및 2nd Checkpoint 최종 제출 회의 | [Link](https://www.notion.so/2nd-Checkpoint-10-Team-Meeting-20210513-THU-d7856e15cb34418680406f4e8dcebcd9) |
