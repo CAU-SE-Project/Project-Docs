@@ -28,7 +28,7 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 
 ### ✔ 2nd Checkpoint Assignments
 Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으로도 확인할 수 있습니다 :)
-- **[Report] 2nd Checkpoint**: [PDF]() (Deadline: 5.15 Sat)
+- **[Report] 2nd Checkpoint**: [PDF](https://github.com/CAU-SE-Project/Project-Docs/blob/main/2nd%20Checkpoint.pdf) or [DOCX](https://github.com/CAU-SE-Project/Project-Docs/blob/main/2nd%20Checkpoint.docx) (Deadline: 5.15 Sat)
 
 | **No** | **Contents** | **Link (Markdown)** | **Link (Notion)** |
 |:--------:|:--------:|:--------:|:--------:|
