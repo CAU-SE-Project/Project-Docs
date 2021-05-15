@@ -13,7 +13,9 @@
 
 
 ### - Object Sequence Diagram for UC-10 : Disease Management  
-- Notion : [Link](https://www.notion.so/Sequence-Diagram-for-UC-10-7d34f52f07cc48fea78291fbd0135cfd)  
+- Notion : [Link](https://www.notion.so/Sequence-Class-Diagram-for-UC-10-7d34f52f07cc48fea78291fbd0135cfd)
+
+![image2](UC10_Object_Sequence_Diagram.png)
 
 
 
