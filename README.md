@@ -42,7 +42,7 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 |:-------:|:-------:|:-------:|
 | 1 | **UC-1 : Clinic System** | [Link](https://github.com/CAU-SE-Project/UC-1-Clinic-System) |
 | 2 | **UC-4 : Search Disease** | [Link](https://github.com/CAU-SE-Project/UC-4-Search-Disease) |
-| 3 | **UC-10 : Disease Management** | [Link]() |
+| 3 | **UC-10 : Disease Management** | [Link](https://github.com/CAU-SE-Project/UC-10-Disease-Management) |
 
 
 
