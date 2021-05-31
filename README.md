@@ -36,6 +36,16 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 | 2 | **Class Diagram** | [Link(DIR)](/5.%20Class%20Diagram) | [Link](https://www.notion.so/193ee99387224621976c561dd661b0b3?v=c7e0e8f9d0cb4b3b9b666144c9e8feb6) |
 
 
+### ✔ 3rd Checkpoint Assignments  
+2nd Checkpoint의 결과인 최상위요구 30% 설계에 대한 구현은 아래 Repository에서 확인할 수 있습니다 :) (Deadline : 5.31 Mon)
+| **No** | **Use-Case** | **Link (Repository)** |
+|:-------:|:-------:|:-------:|
+| 1 | UC-1 : Clinic System | [Link](https://github.com/CAU-SE-Project/UC-1-Clinic-System) |
+| 2 | UC-4 : Search Disease | [Link](https://github.com/CAU-SE-Project/UC-4-Search-Disease) |
+| 3 | UC-10 : Disease Management | [Link]() |
+
+
+
 ### 📝 Meeting Notes
 | **No** | **Date** | **Topic** | **Link (Notion)** |
 |:-------:|:-------:|:------:|:-------:|
@@ -47,5 +57,8 @@ Report는 아래에서 다운로드 받을 수 있으며, Github MD와 Notion으
 | 6 | 2021.04.24.SAT 21:00 | Traceability Matrix(UC-DC) 작성 회의 및 과제 진행 현황 체크 | [Link](https://www.notion.so/1st-Checkpoint-6-Team-Meeting-20210424-SAT-0e9aa7dc15da4dffb952cddeb6e131a0) |
 | 7 | 2021.04.25.SUN 18:00 | 1st Checkpoint Assignments 최종 제출 회의 | [Link](https://www.notion.so/1st-Checkpoint-7-Team-Meeting-20210425-SUN-f0c21ccb504d48038d20d195b7f9cdab) |
 | 8 | 2021.05.03.Mon 21:00 | 2nd Checkpoint 방향 설정 및 Sequence Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-8-Team-Meeting-20210501-FRI-b5394a88bfa4414e8852decfa713891f) |
-| 9 | 2021.05.08.Sat 21:00 | OSD 피드백 및 Class Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-9-Team-Meeting-20210508-SAT-444e4b27d03d4c9baff2e49bdc40ec12) |
-| 10 | 2021.05.13.Thu 21:00 | Class Diagram 피드백 및 2nd Checkpoint 최종 제출 회의 | [Link](https://www.notion.so/2nd-Checkpoint-10-Team-Meeting-20210513-THU-d7856e15cb34418680406f4e8dcebcd9) |
+| 9 | 2021.05.08.SAT 21:00 | OSD 피드백 및 Class Diagram 작성 회의 | [Link](https://www.notion.so/2nd-Checkpoint-9-Team-Meeting-20210508-SAT-444e4b27d03d4c9baff2e49bdc40ec12) |
+| 10 | 2021.05.13.THU 21:00 | Class Diagram 피드백 및 2nd Checkpoint 최종 제출 회의 | [Link](https://www.notion.so/2nd-Checkpoint-10-Team-Meeting-20210513-THU-d7856e15cb34418680406f4e8dcebcd9) |
+| 11 | 2021.05.20.THU | Code 구현 계획작성 및 개발 언어 선정 | [Link](https://www.notion.so/3rd-Checkpoint-11-Team-Meeting-20210530-SUN-46364f93080f4ebcbc35362799653a04) |
+| 12 | 2021.05.26.WED | 각 팀별 개발 현황 공유 및 Code 중간 점검 | [Link](https://www.notion.so/3rd-Checkpoint-12-Team-Meeting-20210526-WED-3ffd739bdc954a5aa224ed236b5858b0) |
+| 13 | 2021.05.30.SUN | 팀별 Demo 및 피드백, 3rd Checkpoint 최종 제출 회의  | [Link](https://www.notion.so/3rd-Checkpoint-13-Team-Meeting-20210530-SUN-676237642ccb49b38294782a87f168f4) |
