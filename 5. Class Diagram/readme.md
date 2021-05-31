@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/48945057/120111070-626fe200-c1ab-11eb-94d5-03e27608c8fa.png)
 
 #### - Class Diagram for UC-10  
-![image](class%20diagram%20uc4.png)
+![image](UC10_Class_Diagram.png)
